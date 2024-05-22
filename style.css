@@ -1,4 +1,4 @@
-nav {
+nav{
   list-style-type: none;
   background-color: aquamarine;
   position: fixed;
@@ -9,16 +9,16 @@ nav {
   padding: 10px;
 }
 
-li {
+li{
   display: inline;
   padding: 25px;
 }
 
-body {
+body{
   background-color: beige;
 }
 
-a {
+a{
   text-decoration: none;
   color: beige;
 }
