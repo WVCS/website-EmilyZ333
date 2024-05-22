@@ -1,3 +1,31 @@
 body {
+  background-color: beige;
+}
+nav {
+  list-style-type: none;
+  background-color: aquamarine;
+  position: fixed;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  color: black;
+  padding: 10px;
+}
 
+li {
+  display: inline;
+  padding: 25px;
+}
+
+body {
+  background-color: beige;
+}
+
+
+li:hover {
+  background: beige;
+}
+a {
+  text-decoration: none;
+  color: black;
 }
