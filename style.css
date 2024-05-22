@@ -1,8 +1,3 @@
- <head> <link rel="stylesheet" href="style.css"
-             </head>
-body {
-  background-color: beige;
-}
 nav {
   list-style-type: none;
   background-color: aquamarine;
@@ -21,13 +16,4 @@ li {
 
 body {
   background-color: beige;
-}
-
-
-li:hover {
-  background: beige;
-}
-a {
-  text-decoration: none;
-  color: black;
 }
